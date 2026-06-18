@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-google-scholar-api",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Search Google Scholar and return academic papers with titles, publication info, and links. Apify-backed n8n community node, pay-per-result, and usable as an AI agent tool.",
 	"keywords": [
 		"n8n-community-node-package",
